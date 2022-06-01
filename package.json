@@ -1,0 +1,25 @@
+{
+  "name": "strapi-plugin-random-sort",
+  "version": "0.0.1",
+  "description": "Randomly sort the content of a collection",
+  "strapi": {
+    "name": "random-sort",
+    "description": "Randomly sort the content of a collection",
+    "kind": "plugin",
+    "displayName": "Random Sort"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Excl Networks Inc."
+  },
+  "maintainers": [
+    {
+      "name": "Excl Networks Inc."
+    }
+  ],
+  "engines": {
+    "node": ">=12.x.x <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
