@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-random-sort",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Randomly sort the content of a collection",
   "strapi": {
     "name": "random-sort",
@@ -11,6 +11,10 @@
   "dependencies": {},
   "author": {
     "name": "Excl Networks Inc."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/excl-networks/strapi-plugin-random-sort"
   },
   "maintainers": [
     {
