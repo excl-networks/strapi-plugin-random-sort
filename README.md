@@ -22,6 +22,9 @@ or
 
 Add a `?randomSort=true` as a query parameter
 
+## Example
+
+`http://localhost:1337/api/blogs?populate=*&randomSort=true`
 
 ## ⭐️Did you find this helpful?
 If you found this plugin helpful give it a star?
