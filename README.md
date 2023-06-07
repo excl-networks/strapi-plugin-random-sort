@@ -1,3 +1,7 @@
+# Archived
+I have archived this plugin because its 15 lines of code you should implement yourself instead of depending on a plugin.
+
+
 # Strapi plugin random-sort
 
 Simple plugin to randomly sort the data of a request.
